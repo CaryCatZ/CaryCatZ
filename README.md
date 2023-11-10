@@ -1,3 +1,3 @@
 ## Hi There
 
-Just coding for fun
+Attempting to be better.
