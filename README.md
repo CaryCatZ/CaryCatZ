@@ -4,6 +4,10 @@ Glad to be viewed!
 ![Profile Views](https://komarev.com/ghpvc/?username=CaryCatZ&color=a70038&abbreviated=true&style=for-the-badge)
 <!--Ignore what is above which may never increase except for the view from my own. May there be a day when it reaches one thousand only because my followers?-->
 
+### ANNOUNCEMENT
+
+Currently inactive. For whatever purpose, contact with email or others, at least not on GitHub.
+
 ### ✨About My Self
 
 Nothing special but mainly making my way. Sometimes attach my consideration to something interesting.
@@ -20,7 +24,9 @@ Anyway, I would always be here to be talked!
 
 ### 📧Contact
 **Email**: `carycatz@outlook.com`
+<!--
 > Other approaches to reach me may be under consideration to be declared, or you can just search for me by yourself to figure out exactly where I am active.
+-->
 
 <!--
 Here I would sincerely appreciate those who provide those services.
